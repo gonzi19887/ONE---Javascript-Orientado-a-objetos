@@ -13,9 +13,9 @@
   "author": "Curso alura",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gonzi19887/ONE---Javascript-Orientado-a-objetos/issues",
-	"type":"module"
+    "url": "https://github.com/gonzi19887/ONE---Javascript-Orientado-a-objetos/issues"
   },
-  "homepage": "https://github.com/gonzi19887/ONE---Javascript-Orientado-a-objetos#readme"
+  "homepage": "https://github.com/gonzi19887/ONE---Javascript-Orientado-a-objetos#readme",
+	"type":"module"
 }
 
