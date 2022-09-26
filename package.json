@@ -1,0 +1,21 @@
+{
+  "name": "cuentasbancopopular",
+  "version": "1.0.0",
+  "description": "gestion de cuentas corrientes del banco popular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gonzi19887/ONE---Javascript-Orientado-a-objetos.git"
+  },
+  "author": "Curso alura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gonzi19887/ONE---Javascript-Orientado-a-objetos/issues",
+	"type":"module"
+  },
+  "homepage": "https://github.com/gonzi19887/ONE---Javascript-Orientado-a-objetos#readme"
+}
+
