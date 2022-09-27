@@ -5,7 +5,7 @@ export class cuentaCorriente {
 	numero;
 	#saldo;
 	agencia;
-	cantidadCuentas = 0;
+	static cantidadCuentas = 0;
 
 	set cliente(valor) {
 		if (valor instanceof Cliente) {
@@ -22,7 +22,7 @@ export class cuentaCorriente {
 		this.numero = numero;
 		this.agencia = agencia;
 		this.#saldo = 0;
-		this.cantidadCuentas++;
+	cuentaCorriente.cantidadCuentas++;
 	}
 
 	depositoEnCuenta(valor) {
