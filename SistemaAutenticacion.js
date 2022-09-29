@@ -1,7 +1,10 @@
 export class SistemaAutenticacion {
 	static login(usuario, clave) {
-		if(usuario.autenticable(clave){		
-		return usuario.autenticable(clave);
-		})
+		if ("autenticable" in usuario) {
+			return usuario.autenticable(clave);
+		}else{
+			return false;
+		}
+	
 	}
 }
